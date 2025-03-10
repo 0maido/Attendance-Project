@@ -167,4 +167,3 @@ For support or feature requests:
 3. Add system-specific notes if needed
 4. Include sample Excel files in `/examples` folder
 
-This README provides both technical details and user-friendly instructions while maintaining professional presentation. The dual-project structure helps users understand the relationship between the two tools.
