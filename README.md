@@ -157,7 +157,7 @@ A processing tool that:
 
 ## 📬 Contact
 For support or feature requests:
-- 📧 Email: [Your Email Here]
+- 📧 Email: ahmedabdelgalil2004@gmail.com
 - 💬 GitHub Issues: [Create New Issue](https://github.com/0maido/Attendance-Project/issues)
 ```
 
