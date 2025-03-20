@@ -29,9 +29,9 @@ def load_excel(day):
         for file_path in file_paths:
             # Read Excel file
             try:
-                df = pd.read_excel(file_path, header=2, engine='openpyxl').iloc[:36]
+                df = pd.read_excel(file_path, header=1, engine='openpyxl')
             except:
-                df = pd.read_excel(file_path, header=2, engine='xlrd').iloc[:36]
+                df = pd.read_excel(file_path, header=1, engine='xlrd')
 
             # Validate structure
             if len(df.columns) < 7:
